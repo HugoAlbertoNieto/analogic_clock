@@ -1,0 +1,18 @@
+h1 {
+  font-family: 'Sansita Swashed', cursive;
+}
+
+#canvas {
+  background-color:#004080;
+  border-radius:15px;
+}
+
+.center {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  border-color: black;
+  border-style: solid;
+  border-width: thick;
+  padding-bottom: 30px;
+}
